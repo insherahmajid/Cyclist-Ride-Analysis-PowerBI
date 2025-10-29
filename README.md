@@ -68,7 +68,7 @@ These are major tourist and leisure areas — preferred by **casual riders**.
 | Tool | Purpose |
 |------|----------|
 | **Power BI Desktop** | Dashboard development |
-| **Microsoft Excel / SQL** | Data cleaning & transformation |
+| **Python** | Data cleaning & transformation |
 | **DAX** | Calculated columns and KPIs |
 | **OpenStreetMap & Bing Maps** | Geo-visuals for station mapping |
 
@@ -89,7 +89,8 @@ Dashboard Features
 
 Files
 -  **Power BI File:** [Download `.pbix`](https://drive.google.com/file/d/1M8cS63JFXJz09JadQ8XT0Zo_xb6mi2W_/view?usp=sharing)
- 
+ -- data cleaning:[python script](python/cyclist.ipynb)
+-[cleaned dataset](dataset/cyclist_cleaned.csv)
 - **Dashboard Report (PDF):** [View Report](reports/Cyclists_R\project.pdf)  
 -**Dashboard Preview:**  
  <p align="center">
