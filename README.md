@@ -90,7 +90,7 @@ Dashboard Features
 Files
 -  **Power BI File:** [Download `.pbix`](https://drive.google.com/file/d/1M8cS63JFXJz09JadQ8XT0Zo_xb6mi2W_/view?usp=sharing)
  -- data cleaning:[python script](python/cyclist.ipynb)
---[cleaned dataset](dataset/cyclist_cleaned.csv)
+
 - **Dashboard Report (PDF):** [View Report](reports/Cyclists_R\project.pdf)  
 -**Dashboard Preview:**  
  <p align="center">
