@@ -88,8 +88,9 @@ Dashboard Features
 
 
 Files
--  **Power BI File:** [Download `.pbix`](dashboard/Cyclist_Ride_Analysis.pbix)  
-- **Dashboard Report (PDF):** [View Report](reports/Cyclist_Ride_Analysis_Report.pdf)  
+-  **Power BI File:** [Download `.pbix`](https://drive.google.com/file/d/1M8cS63JFXJz09JadQ8XT0Zo_xb6mi2W_/view?usp=sharing)
+ 
+- **Dashboard Report (PDF):** [View Report](reports/Cyclists_R\project.pdf)  
 -**Dashboard Preview:**  
   ![Dashboard Preview](images/dashboard_preview.png)
 
