@@ -92,7 +92,7 @@ Files
  
 - **Dashboard Report (PDF):** [View Report](reports/Cyclists_R\project.pdf)  
 -**Dashboard Preview:**  
-  ![Dashboard Preview](images/dashboard_preview.png)
+  ![Dashboard Preview](images/cyc1.png,cyc2.png)
 
 *(Make sure to upload these files with matching names and folders.)*
 
