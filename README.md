@@ -121,8 +121,8 @@ Files
 📊 Data Analyst | 💡 Power BI | 📈 Data Storytelling  
 📍 Srinagar, Kashmir  
 
-🔗 [LinkedIn](#) (add your link)  
-📧 insherahmajid@example.com (optional)
+🔗 [LinkedIn] (www.linkedin.com/in/insherah-majid-146496317)  
+📧 insherahmajid81@gmail.com 
 
 
 
@@ -134,5 +134,5 @@ If you found this project useful or inspiring, feel free to ⭐ **star the repo*
 🟢 *Created as part of my Google Data Analytics Capstone to demonstrate end-to-end Power BI analysis skills.*
 
 
-## 📁 Project Structure
+
 
